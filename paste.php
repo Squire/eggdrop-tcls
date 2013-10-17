@@ -1,4 +1,15 @@
 <?php
+// paste.php --
+//
+//	Made by ev0x 
+//
+//	You will need 3 scripts to use this product
+//
+//	trace.tcl
+//	paste.php
+//	paste.sh ( needs to be chmod +x ) 
+
+
 $file = file_get_contents('../trace.log');
      
 $api_dev_key                    = '3bc64ff570bd3c4c5fa2e5b5cffe2b9a'; // your api_developer_key <FILL THIS IN
