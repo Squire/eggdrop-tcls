@@ -17,8 +17,7 @@ if {$dest==""} { set dest $botnick }
 #	global botnick 
 #if {[string tolower $nick] == [string tolower "nickserv"]} {
 #if {$dest==""} { set dest $botnick }
-#	putserv "PRIVMSG ChanServ :Op #lounge $botnick"
-#	putserv "PRIVMSG ChanServ :Op #pyrexhosting $botnick"	
+#	putserv "PRIVMSG ChanServ :Op all"
 #	}
 # return 0
 #}
