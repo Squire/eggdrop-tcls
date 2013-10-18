@@ -20,7 +20,7 @@
 # v1.0 - scripted using checklist user sets in config.
 
 # SCRIPT begins: there is no config this is 100% automatic.
-# -----------
+# -------------
 
 # initialize the global variables
 variable checknick ""
