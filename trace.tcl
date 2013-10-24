@@ -11,6 +11,7 @@
 set scriptpath_trace "~/eggdrop/scripts"
     
 bind pub - !trace trace
+bind pub - .trace trace
    
 proc trace {nick host hand chan text} {
 	global scriptpath_trace
